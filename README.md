@@ -3,9 +3,9 @@
 An interactive, premium React/Next.js calendar component that bridges the gap between a traditional physical wall calendar and a high-performance digital productivity tool.
 
 🔗 Submission Links
-Live Demo: [Insert Vercel/Netlify Link Here]
+Live Demo: https://wall-calendar-indol.vercel.app/
 
-Video Walkthrough: [Insert YouTube/Loom Link Here]
+Video Walkthrough: https://www.youtube.com/watch?v=6KnrjwFwdD8
 
 Source Code: https://github.com/AbhitanshShahi/WallCalendar
 
