@@ -1,4 +1,5 @@
 📅 WallCalendar - Frontend Engineering Challenge
+
 An interactive, premium React/Next.js calendar component that bridges the gap between a traditional physical wall calendar and a high-performance digital productivity tool.
 
 🔗 Submission Links
